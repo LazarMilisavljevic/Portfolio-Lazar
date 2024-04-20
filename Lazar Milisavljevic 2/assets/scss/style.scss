@@ -179,7 +179,7 @@ header{
 			img{
 				max-width: 90%;
 				@media (max-width:780px) {
-                    max-width: 90%;
+					max-width: 90%;
 					margin-left: -10px;
                 }
 				border-radius: 18px;
@@ -195,11 +195,11 @@ header{
 				font-size: 25px;
 				color: black;
 				@media (max-width:780px) {
-                    max-width: 50%;
+					max-width: 50%;
 					margin-left: 15%;
                 }
                 @media (max-width:583px) {
-                    font-size: 20px;
+					font-size: 20px;
 					margin-left: 17%;
                 }
 			}
@@ -208,7 +208,7 @@ header{
 			img{
 				max-width: 90%;
 				@media(max-width:780px){
-                    max-width: 90%;
+					max-width: 90%;
                 }
 				border-radius: 18px;
 				outline: 1px solid gray;
@@ -222,11 +222,11 @@ header{
 				font-size: 25px;
 				color: black;
 				@media(max-width:780px){
-                    max-width: 50%;
+					max-width: 50%;
 					margin-left: 5%;
                 }
                 @media(max-width:583px){
-                    font-size: 20px;
+					font-size: 20px;
 					margin-left: 14%;
                 }
 			}
